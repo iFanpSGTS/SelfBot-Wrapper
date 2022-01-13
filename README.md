@@ -33,4 +33,4 @@ I hope this program will work 100% soon!!
     pip install -r requirement.txt
  
 # Pip
-- pip install SelfDWrapper
+- pip install SelfWrapper
