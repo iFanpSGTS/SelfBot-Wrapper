@@ -1,3 +1,6 @@
+# Discontinued
+- .....
+- 
 # Discord Self bot wrapper by iFanpS
 - Information
     This discord self bot wrapper created because i want to learn how to make API wrapper
