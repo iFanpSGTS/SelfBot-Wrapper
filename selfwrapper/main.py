@@ -1,5 +1,4 @@
 from .route import Route
-import random, base64, requests
 
 class GetWrapper:
     def __init__(self, token, useragent=None, xsp=None):
