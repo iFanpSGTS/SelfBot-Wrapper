@@ -3,8 +3,10 @@
     This discord self bot wrapper created because i want to learn how to make API wrapper
 
     This project is still on progress, so stay tune!
-
-- Creator
+    
+    Inpired by : RedBallG
+    
+- Creator 
     iFanpS
     
     NumeXx
