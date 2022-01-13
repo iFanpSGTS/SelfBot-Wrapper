@@ -11,6 +11,7 @@ This program is not 100% done, i hope if you use this program and found an Error
 
 I hope this program will work 100% soon!!
 
+# Credit
 - Creator 
     iFanpS
     
