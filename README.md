@@ -35,6 +35,6 @@ I hope this program will work 100% soon!!
 # Requirement
 - How to install requirement.txt
     pip install -r requirement.txt
- 
+  
 # Pip   
 - pip install SelfWrapper
