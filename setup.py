@@ -6,7 +6,7 @@ with open('requirements.txt') as f:
 
 readme = ''
 with open('README.md') as f:
-    readme = f.read()
+    readme = f.read()   
 
 setup(name='SelfDWrapper',
       author='iFanpS',
