@@ -9,7 +9,7 @@ with open('README.md') as f:
     readme = f.read()   
 
 setup(name='SelfDWrapper',
-      author='iFanpS',
+      author='iFanpS',   
       url='https://github.com/iFanpSGTS/SelfBot-Wrapper',
       project_urls={
         "Issue tracker": "https://github.com/iFanpSGTS/SelfBot-Wrapper/issues",
