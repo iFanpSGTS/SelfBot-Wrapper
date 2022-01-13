@@ -12,3 +12,6 @@
 # Requirement
 - How to install requirement.txt
     pip install -r requirement.txt
+ 
+# Pip
+- pip install SelfDWrapper
