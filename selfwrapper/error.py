@@ -1,5 +1,5 @@
 class InvalidToken(Exception):
-    print("Token is expired or invalid!")
+    pass
 
 class Forbidden(Exception):
     pass
