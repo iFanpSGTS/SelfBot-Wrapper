@@ -173,3 +173,22 @@ class PatchWrapper:
             }}}
         result = self.route.routesender("PATCH", f"/v8/users/@me/guilds/{guildId}/settings", payload)
         return result.json()
+    
+    def UpdateStatus(self, sText, sEmoji=None):
+        if sEmoji != None:
+            payload = {
+                "custom_status":{
+                "text":sText,
+                "emoji_name":sEmoji
+                }
+            }
+            result = self.route.routesender("PATCH", "/v8/users/@me/settings", payload)
+            return result
+        if sEmoji == None:
+            payloadNone = {
+                "custom_status":{
+                "text":sText,
+                }
+            }
+            resultNone = self.route.routesender("PATCH", "/v8/users/@me/settings", payloadNone)
+            return resultNone
