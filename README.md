@@ -10,8 +10,8 @@
 ```Python
 from selfwrapper import *
 
-cliDel = DeleteWrapper(token="ODg1NjcxNTQ4ODE0NTE2MjI1.Yd-QzA.ZYJTZldDQBqMOiIm9ZUTQ1c88M4")
-cliGet = GetWrapper(token="ODg1NjcxNTQ4ODE0NTE2MjI1.Yd-QzA.ZYJTZldDQBqMOiIm9ZUTQ1c88M4")
+cliDel = DeleteWrapper(token="")
+cliGet = GetWrapper(token="")
 
 print(cliDel.DelChannel("885673571861536782"))
 print(cliGet.GetFriendConnection())
