@@ -12,7 +12,7 @@ setup(name='SelfDWrapper',
       author='iFanpS',
       url='https://github.com/iFanpSGTS/SelfBot-Wrapper',
       project_urls={
-        "Issue tracker": "https://github.com/",
+        "Issue tracker": "https://github.com/iFanpSGTS/SelfBot-Wrapper/issues",
       },
       version=0.6,
       packages=['wrapperSelfDiscord'],
