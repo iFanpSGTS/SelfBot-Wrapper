@@ -29,9 +29,9 @@ I hope this program will work 100% soon!!
 
 # Credit
 - Creator 
-    iFanpS
+   - iFanpS
     
-    NumeXx
+   - NumeXx
 
 # Requirement
 - How to install requirement.txt
